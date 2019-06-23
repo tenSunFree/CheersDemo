@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CheersDemo</string>
+    <string name="shared_preferences_is_skip_welcome_activity_key">SharedPreferencesIsSkipWelcomeActivityKey</string>
+</resources>
